@@ -21,7 +21,7 @@ Deep Insights Page
 - Sales by Payment Mode  
 - Top Customers  
 - Top Products
-- 
+  
  Data Model
 Your Power BI model includes:
 
